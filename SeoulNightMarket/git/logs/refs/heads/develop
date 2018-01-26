@@ -1,0 +1,64 @@
+0000000000000000000000000000000000000000 dec5fe8a1b9cccdae2e3d03676188fc3e433c5b5 DESKTOP-VMUUAM3\Yookmoonsu <yookmoon@naver.com> 1505228940 +0900	branch: Created from master
+dec5fe8a1b9cccdae2e3d03676188fc3e433c5b5 44bc5a4aedf645bdf402734070fd0a561dd2555f Yookmoonsu <yookmoon@naver.com> 1505389169 +0900	pull origin develop: Fast-forward
+44bc5a4aedf645bdf402734070fd0a561dd2555f c0500396acb221a5be84dd732b4135990cce46c9 Yookmoonsu <yookmoon@naver.com> 1505390817 +0900	commit (merge): Merge branch 'feature/UIUX' into develop
+c0500396acb221a5be84dd732b4135990cce46c9 44bc5a4aedf645bdf402734070fd0a561dd2555f Yookmoonsu <yookmoon@naver.com> 1505457831 +0900	reset: moving to 44bc5a4aedf645bdf402734070fd0a561dd2555f
+44bc5a4aedf645bdf402734070fd0a561dd2555f 97eaa7cc67eeef51b511bb1c89cd9e094bdef7a9 Yookmoonsu <yookmoon@naver.com> 1505800613 +0900	merge feature/UIUX: Fast-forward
+97eaa7cc67eeef51b511bb1c89cd9e094bdef7a9 d3449eb2a96a8ffabefc1c682e75182092272c04 Yookmoonsu <yookmoon@naver.com> 1505804667 +0900	merge feature/UIUX: Fast-forward
+d3449eb2a96a8ffabefc1c682e75182092272c04 7b326f7ecc4811c11e0288e2819da0adce98d99d Yookmoonsu <yookmoon@naver.com> 1505833253 +0900	merge feature/UIUX: Fast-forward
+7b326f7ecc4811c11e0288e2819da0adce98d99d 17bf15817d34eb8d6952c0ae1469acc6a108f2ca Yookmoonsu <yookmoon@naver.com> 1505908422 +0900	merge feature/UIUX: Fast-forward
+17bf15817d34eb8d6952c0ae1469acc6a108f2ca e0e2d0ae0c0d2b3c49e032a7773abe994509e4b4 Yookmoonsu <yookmoon@naver.com> 1508481832 +0900	merge feature/UIUX: Fast-forward
+e0e2d0ae0c0d2b3c49e032a7773abe994509e4b4 9c33fcdd98d1e9040c246b555244ba3d74bdab5b Yookmoonsu <yookmoon@naver.com> 1508522746 +0900	merge feature/UIUX: Fast-forward
+9c33fcdd98d1e9040c246b555244ba3d74bdab5b 77b31423fefe062054131b9cc317fa6e41b8076f Yookmoonsu <yookmoon@naver.com> 1508529103 +0900	merge feature/UIUX: Fast-forward
+77b31423fefe062054131b9cc317fa6e41b8076f 3a6e3ce538eaf65016e019ac756e3cb13a5c70ba Yookmoonsu <yookmoon@naver.com> 1508572156 +0900	merge feature/UIUX: Fast-forward
+3a6e3ce538eaf65016e019ac756e3cb13a5c70ba 0e5a768f11e977e8b0660e6a2a921e6322e08f97 Yookmoonsu <yookmoon@naver.com> 1508696264 +0900	commit: FragmentConcert 의 Calendar 수정
+0e5a768f11e977e8b0660e6a2a921e6322e08f97 6d7f7f9f10dc78fbcef55a69d64c1704a77e3e60 Yookmoonsu <yookmoon@naver.com> 1508698227 +0900	merge feature/UIUX: Fast-forward
+6d7f7f9f10dc78fbcef55a69d64c1704a77e3e60 4964bf530899c0ca6da726de09392f2bc91119fb Yookmoonsu <yookmoon@naver.com> 1508729471 +0900	merge feature/UIUX: Fast-forward
+4964bf530899c0ca6da726de09392f2bc91119fb 1d58f3e9bff822fac63086fa625c8805a11e85bd Yookmoonsu <yookmoon@naver.com> 1508729831 +0900	merge feature/UIUX: Fast-forward
+1d58f3e9bff822fac63086fa625c8805a11e85bd c154c32df1385b0f349d55ccab732f4bf85a7e12 Yookmoonsu <yookmoon@naver.com> 1508738305 +0900	merge feature/UIUX: Fast-forward
+c154c32df1385b0f349d55ccab732f4bf85a7e12 ab82cd44a30d7d1a61a6f23ec67a43702e6bafd2 Yookmoonsu <yookmoon@naver.com> 1508758272 +0900	commit: GridView 중복 에러 ViewHolder로 해결 및 ExpandableHeightGridView 생성 및 적용
+ab82cd44a30d7d1a61a6f23ec67a43702e6bafd2 5759453d0d388187f58844919a5d553a623b39c4 Yookmoonsu <yookmoon@naver.com> 1508764546 +0900	merge feature/UIUX: Fast-forward
+5759453d0d388187f58844919a5d553a623b39c4 b68f8a34a2e0f9d4cf74b9cdc9c514335ff0fc31 Yookmoonsu <yookmoon@naver.com> 1508778601 +0900	merge feature/UIUX: Fast-forward
+b68f8a34a2e0f9d4cf74b9cdc9c514335ff0fc31 54088068f7e3cec39b86cb01c68a6e48152425ef Yookmoonsu <yookmoon@naver.com> 1508847390 +0900	merge feature/UIUX: Fast-forward
+54088068f7e3cec39b86cb01c68a6e48152425ef da5ee4b3a95717924be7d2834fdc34fc9fe9a8c5 Yookmoonsu <yookmoon@naver.com> 1508848624 +0900	commit (merge): Merge branch 'develop' of https://github.com/wooseong/SeoulNightMarket into develop
+da5ee4b3a95717924be7d2834fdc34fc9fe9a8c5 2a7550e963b34fad83a584b4e9bb8defd4300643 Yookmoonsu <yookmoon@naver.com> 1508869335 +0900	merge feature/UIUX: Fast-forward
+2a7550e963b34fad83a584b4e9bb8defd4300643 55157807c77e7f0578058977c71883da679265ee Yookmoonsu <yookmoon@naver.com> 1508869343 +0900	merge origin/feature/Server: Merge made by the 'recursive' strategy.
+55157807c77e7f0578058977c71883da679265ee 05743f52b8a80cc7c23e3ebdac3ba7b3cd166763 Yookmoonsu <yookmoon@naver.com> 1508875403 +0900	commit: region에 따른 Introduction Direction 설정 및 string xml 작성
+05743f52b8a80cc7c23e3ebdac3ba7b3cd166763 d7d3be4bf3bab6ea11b3b399bbbcfb8ce5aecad7 Yookmoonsu <yookmoon@naver.com> 1508916839 +0900	merge feature/UIUX: Fast-forward
+d7d3be4bf3bab6ea11b3b399bbbcfb8ce5aecad7 e8c8f9d6cb081b2eb3de71588e8554643aadb8cd Yookmoonsu <yookmoon@naver.com> 1508940243 +0900	merge feature/UIUX: Fast-forward
+e8c8f9d6cb081b2eb3de71588e8554643aadb8cd bc9b544c5c5ed5c90bfe3e3a17abf715eeb4605f Yookmoonsu <yookmoon@naver.com> 1508950684 +0900	merge feature/UIUX: Fast-forward
+bc9b544c5c5ed5c90bfe3e3a17abf715eeb4605f 72af8823a9fe594dbd83ac9b70c344f61ad7c2eb Yookmoonsu <yookmoon@naver.com> 1508957303 +0900	merge feature/UIUX: Fast-forward
+72af8823a9fe594dbd83ac9b70c344f61ad7c2eb 7c180effe0c19e91c767eca27e123187444c549b Yookmoonsu <yookmoon@naver.com> 1509007264 +0900	merge feature/UIUX: Fast-forward
+7c180effe0c19e91c767eca27e123187444c549b dd4a9fdeab8d6bd92c5f8efb9479706619b11629 Yookmoonsu <yookmoon@naver.com> 1509093445 +0900	merge feature/UIUX: Fast-forward
+dd4a9fdeab8d6bd92c5f8efb9479706619b11629 483dfeb30af2d74c82aa72c1a188c0fdbd539796 Yookmoonsu <yookmoon@naver.com> 1509094079 +0900	merge feature/UIUX: Fast-forward
+483dfeb30af2d74c82aa72c1a188c0fdbd539796 20757b1e5764da2620390c0b251ac699f282da54 Yookmoonsu <yookmoon@naver.com> 1509173203 +0900	merge feature/UIUX: Fast-forward
+20757b1e5764da2620390c0b251ac699f282da54 9a1dec508625c1a414d822de233162a91367356c Yookmoonsu <yookmoon@naver.com> 1509174949 +0900	merge origin/develop: Merge made by the 'recursive' strategy.
+9a1dec508625c1a414d822de233162a91367356c 769e985ec082ca8e425013cccb0f88976619012f Yookmoonsu <yookmoon@naver.com> 1509189949 +0900	merge feature/UIUX: Fast-forward
+769e985ec082ca8e425013cccb0f88976619012f feed4e8a858cc8a52fdc4c6a68fd16a8ff50e97e Yookmoonsu <yookmoon@naver.com> 1509190140 +0900	merge feature/UIUX: Fast-forward
+feed4e8a858cc8a52fdc4c6a68fd16a8ff50e97e f6c9a188a4e12aa5409c2350de276db126e4cef2 Yookmoonsu <yookmoon@naver.com> 1509201254 +0900	merge feature/UIUX: Fast-forward
+f6c9a188a4e12aa5409c2350de276db126e4cef2 62e6958a65574792968e746bf6af5fdc09c6a544 Yookmoonsu <yookmoon@naver.com> 1509219774 +0900	merge feature/UIUX: Fast-forward
+62e6958a65574792968e746bf6af5fdc09c6a544 ca0a775941abb5542c54c65b49903966f5ebc67e Yookmoonsu <yookmoon@naver.com> 1509221666 +0900	merge feature/UIUX: Fast-forward
+ca0a775941abb5542c54c65b49903966f5ebc67e 99ed7dc63a1c18a811ad536b84616337036fa7f3 Yookmoonsu <yookmoon@naver.com> 1509224428 +0900	merge feature/UIUX: Fast-forward
+99ed7dc63a1c18a811ad536b84616337036fa7f3 3c6ffe719023dd4d7c8fc7323230e7588d35d360 Yookmoonsu <yookmoon@naver.com> 1509285556 +0900	commit: Splash 배경 이미지 수정
+3c6ffe719023dd4d7c8fc7323230e7588d35d360 865828278194460b38c8e1d128bb3b26f39df904 Yookmoonsu <yookmoon@naver.com> 1509288434 +0900	merge feature/UIUX: Fast-forward
+865828278194460b38c8e1d128bb3b26f39df904 d26dee5a82317bb493dd05e145b5b92e1fa32b97 Yookmoonsu <yookmoon@naver.com> 1509288792 +0900	merge feature/UIUX: Fast-forward
+d26dee5a82317bb493dd05e145b5b92e1fa32b97 39f28c90833603de1f1ef4d52b6ffcbcfb1028c0 Yookmoonsu <yookmoon@naver.com> 1509296804 +0900	merge feature/UIUX: Fast-forward
+39f28c90833603de1f1ef4d52b6ffcbcfb1028c0 db0d88956d2f70ec94855a9b61b6a9e08ee5db22 Yookmoonsu <yookmoon@naver.com> 1509297056 +0900	merge feature/UIUX: Fast-forward
+db0d88956d2f70ec94855a9b61b6a9e08ee5db22 6dc070bb9ca24817bb0591194d484033481ad104 Yookmoonsu <yookmoon@naver.com> 1509297492 +0900	merge feature/UIUX: Fast-forward
+6dc070bb9ca24817bb0591194d484033481ad104 a060d8c5bdd98b56cc8cfb9ce62a815b72aad6db Yookmoonsu <yookmoon@naver.com> 1509300283 +0900	merge feature/UIUX: Fast-forward
+a060d8c5bdd98b56cc8cfb9ce62a815b72aad6db 1794775e9b52ac96f30abb08e51bb803e60e4df8 Yookmoonsu <yookmoon@naver.com> 1509300299 +0900	pull origin develop: Merge made by the 'recursive' strategy.
+1794775e9b52ac96f30abb08e51bb803e60e4df8 929e68545227f2bcfa5208cd1117f2777d123cb1 Yookmoonsu <yookmoon@naver.com> 1509308337 +0900	merge feature/UIUX: Fast-forward
+929e68545227f2bcfa5208cd1117f2777d123cb1 36b3cc0667fb1556672b8772d8876afc581bb0c5 Yookmoonsu <yookmoon@naver.com> 1509343846 +0900	merge feature/UIUX: Fast-forward
+36b3cc0667fb1556672b8772d8876afc581bb0c5 22d1e37a40e66f28f737dd536ddcf9b10c01e2e3 Yookmoonsu <yookmoon@naver.com> 1509346193 +0900	pull origin develop: Fast-forward
+22d1e37a40e66f28f737dd536ddcf9b10c01e2e3 72e5949efb71404e5e60b9111202e442fd01fa50 Yookmoonsu <yookmoon@naver.com> 1509353592 +0900	commit: 각종 위젯 크기 색상 레이아웃 수정
+72e5949efb71404e5e60b9111202e442fd01fa50 7239ad48cef7e431524078ddd94d92c66040fbab Yookmoonsu <yookmoon@naver.com> 1509353720 +0900	merge feature/UIUX: Fast-forward
+7239ad48cef7e431524078ddd94d92c66040fbab 4775eda7943aa92ba0924974730e6a8853a3586f Yookmoonsu <yookmoon@naver.com> 1509362583 +0900	merge feature/UIUX: Fast-forward
+4775eda7943aa92ba0924974730e6a8853a3586f b1ab817b43d86d5876f34844636e421ddcf0455b Yookmoonsu <yookmoon@naver.com> 1509362731 +0900	merge feature/UIUX: Fast-forward
+b1ab817b43d86d5876f34844636e421ddcf0455b 374b7bed86d7274a8fab0f8b86edb1cec360150f Yookmoonsu <yookmoon@naver.com> 1509399601 +0900	merge feature/UIUX: Fast-forward
+374b7bed86d7274a8fab0f8b86edb1cec360150f bbf476cdbc68fbdfcd2aa1724e82b0014ca8e704 Yookmoonsu <yookmoon@naver.com> 1509405147 +0900	merge feature/UIUX: Fast-forward
+bbf476cdbc68fbdfcd2aa1724e82b0014ca8e704 b00cb71d697cbc8d6671083b422adf21bc5d3142 Yookmoonsu <yookmoon@naver.com> 1509405951 +0900	merge feature/UIUX: Fast-forward
+b00cb71d697cbc8d6671083b422adf21bc5d3142 6adeeffb3ba9c88278ab62f663aa694898a6a5f2 Yookmoonsu <yookmoon@naver.com> 1509406940 +0900	merge feature/UIUX: Fast-forward
+6adeeffb3ba9c88278ab62f663aa694898a6a5f2 b389722c91f455479ada313cc1c5ffcfb01bd9e1 Yookmoonsu <yookmoon@naver.com> 1509422819 +0900	merge feature/UIUX: Fast-forward
+b389722c91f455479ada313cc1c5ffcfb01bd9e1 fe75cd7f9c73cc34f20888ed98a9b49546e45369 Yookmoonsu <yookmoon@naver.com> 1509423013 +0900	merge feature/UIUX: Fast-forward
+fe75cd7f9c73cc34f20888ed98a9b49546e45369 e3f33fa83e05939b709a00161c35cd0e36bbda68 Yookmoonsu <yookmoon@naver.com> 1509423695 +0900	merge feature/UIUX: Fast-forward
+e3f33fa83e05939b709a00161c35cd0e36bbda68 e269a68cb7665d91abf00ad4ebada144fd10a9f7 Yookmoonsu <yookmoon@naver.com> 1509437385 +0900	commit: 오버라이드 메소드 설정
+e269a68cb7665d91abf00ad4ebada144fd10a9f7 33a259f21551166c1fd87a7187d0ae12660e1b6f Yookmoonsu <yookmoon@naver.com> 1509437500 +0900	merge feature/UIUX: Fast-forward

@@ -1,0 +1,31 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/wooseong/SeoulNightMarket.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[gitflow "branch"]
+	master = master
+	develop = develop
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	support = support/
+	versiontag = 
+[user]
+	name = Yookmoonsu
+	email = yookmoon@naver.com
+[branch "feature/UIUX"]
+	remote = origin
+	merge = refs/heads/feature/UIUX
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop

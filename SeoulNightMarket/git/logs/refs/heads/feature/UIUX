@@ -1,0 +1,95 @@
+0000000000000000000000000000000000000000 dec5fe8a1b9cccdae2e3d03676188fc3e433c5b5 DESKTOP-VMUUAM3\Yookmoonsu <yookmoon@naver.com> 1505229054 +0900	branch: Created from develop
+dec5fe8a1b9cccdae2e3d03676188fc3e433c5b5 4d8363b7afd84ad24cc9a4cf6cb1f6696957f842 Yookmoonsu <yookmoon@naver.com> 1505230590 +0900	commit: NightMarket class CustomAdapter class FoodTruck class 생성
+4d8363b7afd84ad24cc9a4cf6cb1f6696957f842 dd0eba9ec3cb20d7760608e44e2d02986f02df17 Yookmoonsu <yookmoon@naver.com> 1505299887 +0900	commit: Concert activity 생성 및 스피너 구현및 이벤트 처리
+dd0eba9ec3cb20d7760608e44e2d02986f02df17 20e02724def7b6a5325b4f8d63a3a300b6e74e60 Yookmoonsu <yookmoon@naver.com> 1505305957 +0900	commit: Introduction activity 생성 및 텍스트뷰 이미지뷰 레이아웃 배치
+20e02724def7b6a5325b4f8d63a3a300b6e74e60 38711c17190ced66042da6e131de724fa6cd8166 Yookmoonsu <yookmoon@naver.com> 1505320676 +0900	commit: 메인화면에 action bar 생성 및 search view 추가
+38711c17190ced66042da6e131de724fa6cd8166 80dc7347f7739f3359cbc6c2a1ab5662d3b35bd1 Yookmoonsu <yookmoon@naver.com> 1505322591 +0900	commit: 메인화면 생성및 그리드뷰 이미지 추가
+80dc7347f7739f3359cbc6c2a1ab5662d3b35bd1 03d4dac687527872b9407356ffa11ac543017118 Yookmoonsu <yookmoon@naver.com> 1505379555 +0900	commit: Activity Fragment로 변환
+03d4dac687527872b9407356ffa11ac543017118 90c5459d3999de2f8bd93cdba13d6b9bf50c7443 Yookmoonsu <yookmoon@naver.com> 1505388793 +0900	commit: color resource 추가
+90c5459d3999de2f8bd93cdba13d6b9bf50c7443 f6348bba1c9a9fc4f139ef0b7fd1c01c3780630e Yookmoonsu <yookmoon@naver.com> 1505481627 +0900	commit: 액티비티 프레그먼트로 변환 및 삭제 메뉴 클래스 생성 리스트뷰 데이터 생성
+f6348bba1c9a9fc4f139ef0b7fd1c01c3780630e 48e44b1e3f0eb3692c880b15d90e2a14e92c3ac7 Yookmoonsu <yookmoon@naver.com> 1505542735 +0900	commit: Custom ListView Adapter Data 생성
+48e44b1e3f0eb3692c880b15d90e2a14e92c3ac7 7afb82247253ba1f26b4fa68eea1bc7829035afd Yookmoonsu <yookmoon@naver.com> 1505555839 +0900	commit: Review 화면 생성 및 리스트뷰로 레이아웃 구성
+7afb82247253ba1f26b4fa68eea1bc7829035afd aefd1c50ae6df924d00f66ce7c9c1607d8f967f5 Yookmoonsu <yookmoon@naver.com> 1505558771 +0900	commit: Review Fragment 생성 및 adapter 연결
+aefd1c50ae6df924d00f66ce7c9c1607d8f967f5 7b15de37200a9517423bb4354787f263b2d6f5c6 Yookmoonsu <yookmoon@naver.com> 1505633735 +0900	commit: splash 화면 생성 및 animation 효과 추가
+7b15de37200a9517423bb4354787f263b2d6f5c6 85a9271448ae743e4d60f1e5fb79420d4a873eb1 Yookmoonsu <yookmoon@naver.com> 1505673099 +0900	commit: Product Fragment 생성 및 Singleton 적용
+85a9271448ae743e4d60f1e5fb79420d4a873eb1 cfbed88283376da9cc977162cb46e41e44ec9b72 Yookmoonsu <yookmoon@naver.com> 1505710814 +0900	commit: Review custom spinner 생성
+cfbed88283376da9cc977162cb46e41e44ec9b72 1a3d0d8422fd12c61e106f813c3b5d05136543a6 Yookmoonsu <yookmoon@naver.com> 1505720912 +0900	commit: FragmentDirections 생성 및 내용 추가
+1a3d0d8422fd12c61e106f813c3b5d05136543a6 ce0684400b875c395e7407dc75f856f7c5317236 Yookmoonsu <yookmoon@naver.com> 1505743321 +0900	commit: Facebook login Activity 생성
+ce0684400b875c395e7407dc75f856f7c5317236 41e45b36b9ea0b4daafc8ab0e99710d048c538c9 Yookmoonsu <yookmoon@naver.com> 1505799270 +0900	commit: Intialscreen을 MainActivity로 이동
+41e45b36b9ea0b4daafc8ab0e99710d048c538c9 889ad8b2462746816a88d10d9bd57023e9d3ffe9 Yookmoonsu <yookmoon@naver.com> 1505799304 +0900	commit: 삭제
+889ad8b2462746816a88d10d9bd57023e9d3ffe9 41e45b36b9ea0b4daafc8ab0e99710d048c538c9 Yookmoonsu <yookmoon@naver.com> 1505799724 +0900	reset: moving to 41e45b36b9ea0b4daafc8ab0e99710d048c538c9
+41e45b36b9ea0b4daafc8ab0e99710d048c538c9 1d738312f7bd4d8ba1f709460a76381867d03335 Yookmoonsu <yookmoon@naver.com> 1505799849 +0900	commit: InitialScreen class 삭제
+1d738312f7bd4d8ba1f709460a76381867d03335 97eaa7cc67eeef51b511bb1c89cd9e094bdef7a9 Yookmoonsu <yookmoon@naver.com> 1505800577 +0900	commit (merge): Merge remote-tracking branch 'origin/feature/flexibleTab' into feature/UIUX
+97eaa7cc67eeef51b511bb1c89cd9e094bdef7a9 d3449eb2a96a8ffabefc1c682e75182092272c04 Yookmoonsu <yookmoon@naver.com> 1505804635 +0900	commit: AreaInformationWithTabBar claas 및 DetailActivity 연결
+d3449eb2a96a8ffabefc1c682e75182092272c04 635f005b682b7bb4f93d98cfae7c5ffd0f36b6b0 Yookmoonsu <yookmoon@naver.com> 1505810670 +0900	commit: 병합한 뒤 필요없는 Activity와 Layout resource파일 삭제
+635f005b682b7bb4f93d98cfae7c5ffd0f36b6b0 e4a5885bff440ba1d4ed3de77b002f2e634d6e6b Yookmoonsu <yookmoon@naver.com> 1505822236 +0900	commit: Ticket class 및 adapter 생성
+e4a5885bff440ba1d4ed3de77b002f2e634d6e6b 3eee1d4cae89ea0cfc7d983fe113195b7753e787 Yookmoonsu <yookmoon@naver.com> 1505827454 +0900	commit: LoginActivity 생성 및 이벤트 구현
+3eee1d4cae89ea0cfc7d983fe113195b7753e787 7b326f7ecc4811c11e0288e2819da0adce98d99d Yookmoonsu <yookmoon@naver.com> 1505833199 +0900	commit: MembershipJoinActivity 생성 및 Layout 구성
+7b326f7ecc4811c11e0288e2819da0adce98d99d e874b6cd40f2766693b5edc39a521f478dbce51c Yookmoonsu <yookmoon@naver.com> 1505847566 +0900	commit: Tab bar 수정 및 번호표 받기 추가
+e874b6cd40f2766693b5edc39a521f478dbce51c 8d538aaa33ba7703083558052b9f4b767254190e Yookmoonsu <yookmoon@naver.com> 1505889097 +0900	commit: 번호표버튼 이벤트 추가 및 HandMadeActivity 생성
+8d538aaa33ba7703083558052b9f4b767254190e 17bf15817d34eb8d6952c0ae1469acc6a108f2ca Yookmoonsu <yookmoon@naver.com> 1505908376 +0900	commit: FragmentConcertCheonggye 생성 FragmentConcertPlaza 생성
+17bf15817d34eb8d6952c0ae1469acc6a108f2ca e0e2d0ae0c0d2b3c49e032a7773abe994509e4b4 Yookmoonsu <yookmoon@naver.com> 1508481824 +0900	commit: Concert Fragment 수정
+e0e2d0ae0c0d2b3c49e032a7773abe994509e4b4 8a5bc490a02a8956a551f3a56176b62f9f6e39ff Yookmoonsu <yookmoon@naver.com> 1508513555 +0900	commit: Main 화면 이미지뷰 제거 및 야시장 이미지 수정
+8a5bc490a02a8956a551f3a56176b62f9f6e39ff 9c33fcdd98d1e9040c246b555244ba3d74bdab5b Yookmoonsu <yookmoon@naver.com> 1508522549 +0900	commit: SellerActivity 생성 및 Layout 구성
+9c33fcdd98d1e9040c246b555244ba3d74bdab5b 77b31423fefe062054131b9cc317fa6e41b8076f Yookmoonsu <yookmoon@naver.com> 1508529087 +0900	commit: Review 레이아웃 수정 및 Spinner 이미지 수정
+77b31423fefe062054131b9cc317fa6e41b8076f a27fce280eac969afd205e94b19099dc60ddca70 Yookmoonsu <yookmoon@naver.com> 1508561564 +0900	commit: Review 이미지 수정 크기 조정 및 Calendar 추가
+a27fce280eac969afd205e94b19099dc60ddca70 3a6e3ce538eaf65016e019ac756e3cb13a5c70ba Yookmoonsu <yookmoon@naver.com> 1508572143 +0900	commit: SplashActivity 생성및 이미지 변경
+3a6e3ce538eaf65016e019ac756e3cb13a5c70ba 0e5a768f11e977e8b0660e6a2a921e6322e08f97 Yookmoonsu <yookmoon@naver.com> 1508696283 +0900	merge develop: Fast-forward
+0e5a768f11e977e8b0660e6a2a921e6322e08f97 dd40653a255f78c6cd7eab45901dee7ccc8a8d9c Yookmoonsu <yookmoon@naver.com> 1508696864 +0900	commit (merge): Server와 Android 병합
+dd40653a255f78c6cd7eab45901dee7ccc8a8d9c f53eb3bc32336c10d1ebc5696cbf228961703228 Yookmoonsu <yookmoon@naver.com> 1508696890 +0900	pull origin feature/Server: Merge made by the 'recursive' strategy.
+f53eb3bc32336c10d1ebc5696cbf228961703228 6d7f7f9f10dc78fbcef55a69d64c1704a77e3e60 Yookmoonsu <yookmoon@naver.com> 1508698219 +0900	commit: 서버 최신본 병합
+6d7f7f9f10dc78fbcef55a69d64c1704a77e3e60 4964bf530899c0ca6da726de09392f2bc91119fb Yookmoonsu <yookmoon@naver.com> 1508729458 +0900	commit: FragmentConcert 및 FragmentInformation Calendar 수정
+4964bf530899c0ca6da726de09392f2bc91119fb 1d58f3e9bff822fac63086fa625c8805a11e85bd Yookmoonsu <yookmoon@naver.com> 1508729809 +0900	commit (merge): Merge branch 'feature/Server' of https://github.com/wooseong/SeoulNightMarket into feature/UIUX
+1d58f3e9bff822fac63086fa625c8805a11e85bd c154c32df1385b0f349d55ccab732f4bf85a7e12 Yookmoonsu <yookmoon@naver.com> 1508738298 +0900	commit: FragmentConcert ScrollView 수정
+c154c32df1385b0f349d55ccab732f4bf85a7e12 ab82cd44a30d7d1a61a6f23ec67a43702e6bafd2 Yookmoonsu <yookmoon@naver.com> 1508758284 +0900	merge develop: Fast-forward
+ab82cd44a30d7d1a61a6f23ec67a43702e6bafd2 5759453d0d388187f58844919a5d553a623b39c4 Yookmoonsu <yookmoon@naver.com> 1508764534 +0900	commit: FragmentProduct 수정
+5759453d0d388187f58844919a5d553a623b39c4 b68f8a34a2e0f9d4cf74b9cdc9c514335ff0fc31 Yookmoonsu <yookmoon@naver.com> 1508778590 +0900	commit: 네비게이션 드로어 수정
+b68f8a34a2e0f9d4cf74b9cdc9c514335ff0fc31 ed36d19ccd73306ac1dc0a0a4fe970814c82cae3 Yookmoonsu <yookmoon@naver.com> 1508778677 +0900	pull origin feature/Server: Merge made by the 'recursive' strategy.
+ed36d19ccd73306ac1dc0a0a4fe970814c82cae3 54088068f7e3cec39b86cb01c68a6e48152425ef Yookmoonsu <yookmoon@naver.com> 1508847377 +0900	commit: 탭바 네비게이션 수정
+54088068f7e3cec39b86cb01c68a6e48152425ef da5ee4b3a95717924be7d2834fdc34fc9fe9a8c5 Yookmoonsu <yookmoon@naver.com> 1508848633 +0900	merge develop: Fast-forward
+da5ee4b3a95717924be7d2834fdc34fc9fe9a8c5 102d78ef1bfa4de1ddf1fd4f671c68a2d6b85be3 Yookmoonsu <yookmoon@naver.com> 1508860193 +0900	commit: AreaInformationWithTabBar 색상 설정
+102d78ef1bfa4de1ddf1fd4f671c68a2d6b85be3 2a7550e963b34fad83a584b4e9bb8defd4300643 Yookmoonsu <yookmoon@naver.com> 1508869292 +0900	commit: Introduction string xml 추가 listview height 오류수정
+2a7550e963b34fad83a584b4e9bb8defd4300643 05743f52b8a80cc7c23e3ebdac3ba7b3cd166763 Yookmoonsu <yookmoon@naver.com> 1508875413 +0900	merge develop: Fast-forward
+05743f52b8a80cc7c23e3ebdac3ba7b3cd166763 d7d3be4bf3bab6ea11b3b399bbbcfb8ce5aecad7 Yookmoonsu <yookmoon@naver.com> 1508916747 +0900	commit: listview height 구하는 함수 추가 및 string xml 작업 완료
+d7d3be4bf3bab6ea11b3b399bbbcfb8ce5aecad7 e8c8f9d6cb081b2eb3de71588e8554643aadb8cd Yookmoonsu <yookmoon@naver.com> 1508940230 +0900	commit: TaskService 로그인하면 앱종료 시 까지 로그인 상태 유지
+e8c8f9d6cb081b2eb3de71588e8554643aadb8cd bc9b544c5c5ed5c90bfe3e3a17abf715eeb4605f Yookmoonsu <yookmoon@naver.com> 1508950675 +0900	commit: DetailActivity 툴바추가 및 색상 수정
+bc9b544c5c5ed5c90bfe3e3a17abf715eeb4605f 72af8823a9fe594dbd83ac9b70c344f61ad7c2eb Yookmoonsu <yookmoon@naver.com> 1508957286 +0900	commit: HandMade Layout 수정 및 Concert 이미지 크기 조정 10월 데이터 추가
+72af8823a9fe594dbd83ac9b70c344f61ad7c2eb 7c180effe0c19e91c767eca27e123187444c549b Yookmoonsu <yookmoon@naver.com> 1509007256 +0900	commit: SellerActivity에 sms송신 기능 추가
+7c180effe0c19e91c767eca27e123187444c549b dd4a9fdeab8d6bd92c5f8efb9479706619b11629 Yookmoonsu <yookmoon@naver.com> 1509093437 +0900	commit: 네비게이션 드로어 레이아웃 수정
+dd4a9fdeab8d6bd92c5f8efb9479706619b11629 483dfeb30af2d74c82aa72c1a188c0fdbd539796 Yookmoonsu <yookmoon@naver.com> 1509094072 +0900	commit (merge): Merge branch 'feature/Server' of https://github.com/wooseong/SeoulNightMarket into feature/UIUX
+483dfeb30af2d74c82aa72c1a188c0fdbd539796 e79224b9767041c0b6061ac23b307acdfcb1dba4 Yookmoonsu <yookmoon@naver.com> 1509105012 +0900	commit: 네비게이션 레이아웃 수정
+e79224b9767041c0b6061ac23b307acdfcb1dba4 20757b1e5764da2620390c0b251ac699f282da54 Yookmoonsu <yookmoon@naver.com> 1509173196 +0900	commit: 메인화면 이미지 배경 이미지 수정
+20757b1e5764da2620390c0b251ac699f282da54 9a1dec508625c1a414d822de233162a91367356c Yookmoonsu <yookmoon@naver.com> 1509175040 +0900	merge develop: Fast-forward
+9a1dec508625c1a414d822de233162a91367356c 769e985ec082ca8e425013cccb0f88976619012f Yookmoonsu <yookmoon@naver.com> 1509189938 +0900	commit: 액티비티 status bar 수정 및 패스워드 암호화 및 로그인 유지 기능 추가
+769e985ec082ca8e425013cccb0f88976619012f feed4e8a858cc8a52fdc4c6a68fd16a8ff50e97e Yookmoonsu <yookmoon@naver.com> 1509190131 +0900	commit (merge): Merge branch 'feature/Server' of https://github.com/wooseong/SeoulNightMarket into feature/UIUX
+feed4e8a858cc8a52fdc4c6a68fd16a8ff50e97e f6c9a188a4e12aa5409c2350de276db126e4cef2 Yookmoonsu <yookmoon@naver.com> 1509201247 +0900	commit: 네비게이션에 내 번호표 현황 기능 추가
+f6c9a188a4e12aa5409c2350de276db126e4cef2 62e6958a65574792968e746bf6af5fdc09c6a544 Yookmoonsu <yookmoon@naver.com> 1509219768 +0900	commit: TabLayout 테두리 설정 및 Seller Activity 툴바 추가
+62e6958a65574792968e746bf6af5fdc09c6a544 4e3098e3d45f4a2adbf043200b04162c77124249 Yookmoonsu <yookmoon@naver.com> 1509220577 +0900	pull origin feature/Server: Merge made by the 'recursive' strategy.
+4e3098e3d45f4a2adbf043200b04162c77124249 ca0a775941abb5542c54c65b49903966f5ebc67e Yookmoonsu <yookmoon@naver.com> 1509221654 +0900	commit: NumberTicket 툴바 추가
+ca0a775941abb5542c54c65b49903966f5ebc67e 99ed7dc63a1c18a811ad536b84616337036fa7f3 Yookmoonsu <yookmoon@naver.com> 1509224422 +0900	commit: Seller Layout 수정
+99ed7dc63a1c18a811ad536b84616337036fa7f3 3c6ffe719023dd4d7c8fc7323230e7588d35d360 Yookmoonsu <yookmoon@naver.com> 1509285598 +0900	merge develop: Fast-forward
+3c6ffe719023dd4d7c8fc7323230e7588d35d360 865828278194460b38c8e1d128bb3b26f39df904 Yookmoonsu <yookmoon@naver.com> 1509288410 +0900	commit: 판매자와 구매자 화면 툴바 제거 및 로그아웃 버튼 텍스트 추가
+865828278194460b38c8e1d128bb3b26f39df904 d26dee5a82317bb493dd05e145b5b92e1fa32b97 Yookmoonsu <yookmoon@naver.com> 1509288774 +0900	commit (merge): 번호표 닉네임 서버에서 받아와서 갱신
+d26dee5a82317bb493dd05e145b5b92e1fa32b97 39f28c90833603de1f1ef4d52b6ffcbcfb1028c0 Yookmoonsu <yookmoon@naver.com> 1509296791 +0900	commit: 푸드트럭 핸드메이드 버튼 스타일 및 색상 수정
+39f28c90833603de1f1ef4d52b6ffcbcfb1028c0 db0d88956d2f70ec94855a9b61b6a9e08ee5db22 Yookmoonsu <yookmoon@naver.com> 1509296926 +0900	merge origin/feature/Server: Merge made by the 'recursive' strategy.
+db0d88956d2f70ec94855a9b61b6a9e08ee5db22 6dc070bb9ca24817bb0591194d484033481ad104 Yookmoonsu <yookmoon@naver.com> 1509297485 +0900	commit (merge): 리뷰 listView를 recyclerView로 변환
+6dc070bb9ca24817bb0591194d484033481ad104 a060d8c5bdd98b56cc8cfb9ce62a815b72aad6db Yookmoonsu <yookmoon@naver.com> 1509300187 +0900	commit: 앱 아이콘 설정
+a060d8c5bdd98b56cc8cfb9ce62a815b72aad6db 1794775e9b52ac96f30abb08e51bb803e60e4df8 Yookmoonsu <yookmoon@naver.com> 1509300314 +0900	merge develop: Fast-forward
+1794775e9b52ac96f30abb08e51bb803e60e4df8 929e68545227f2bcfa5208cd1117f2777d123cb1 Yookmoonsu <yookmoon@naver.com> 1509308330 +0900	commit: 야시장 이미지로 애니메이션 효과 추가
+929e68545227f2bcfa5208cd1117f2777d123cb1 36b3cc0667fb1556672b8772d8876afc581bb0c5 Yookmoonsu <yookmoon@naver.com> 1509343834 +0900	commit: 메인화면 이미지 크기 조정 및 푸드트럭 디폴드값 수정
+36b3cc0667fb1556672b8772d8876afc581bb0c5 72e5949efb71404e5e60b9111202e442fd01fa50 Yookmoonsu <yookmoon@naver.com> 1509353614 +0900	merge develop: Fast-forward
+72e5949efb71404e5e60b9111202e442fd01fa50 7239ad48cef7e431524078ddd94d92c66040fbab Yookmoonsu <yookmoon@naver.com> 1509353709 +0900	pull origin feature/Server: Merge made by the 'recursive' strategy.
+7239ad48cef7e431524078ddd94d92c66040fbab 4775eda7943aa92ba0924974730e6a8853a3586f Yookmoonsu <yookmoon@naver.com> 1509362575 +0900	commit: 푸드트럭 Detail Activity 레이아웃 수정
+4775eda7943aa92ba0924974730e6a8853a3586f b1ab817b43d86d5876f34844636e421ddcf0455b Yookmoonsu <yookmoon@naver.com> 1509362719 +0900	commit (merge): 구매자 예약현황에서 없을 시 텍스트 메세지 추가
+b1ab817b43d86d5876f34844636e421ddcf0455b 6a3b3aa06268ea02bcbb3f0bdb5a2883b4a92ef9 Yookmoonsu <yookmoon@naver.com> 1509396464 +0900	commit: 야시장 레이아웃 및 색상 수정
+6a3b3aa06268ea02bcbb3f0bdb5a2883b4a92ef9 374b7bed86d7274a8fab0f8b86edb1cec360150f Yookmoonsu <yookmoon@naver.com> 1509399518 +0900	pull origin develop: Merge made by the 'recursive' strategy.
+374b7bed86d7274a8fab0f8b86edb1cec360150f 9d8e6bf17c6bebd2dc926720a587bdc17ec99ac6 Yookmoonsu <yookmoon@naver.com> 1509403588 +0900	commit: 네비게이션 이미지 선 수정
+9d8e6bf17c6bebd2dc926720a587bdc17ec99ac6 bbf476cdbc68fbdfcd2aa1724e82b0014ca8e704 Yookmoonsu <yookmoon@naver.com> 1509405133 +0900	commit: 푸드트럭 핸드메이드 버튼 겹치기
+bbf476cdbc68fbdfcd2aa1724e82b0014ca8e704 b00cb71d697cbc8d6671083b422adf21bc5d3142 Yookmoonsu <yookmoon@naver.com> 1509405294 +0900	pull origin feature/ChoiUI: Merge made by the 'recursive' strategy.
+b00cb71d697cbc8d6671083b422adf21bc5d3142 6adeeffb3ba9c88278ab62f663aa694898a6a5f2 Yookmoonsu <yookmoon@naver.com> 1509406929 +0900	commit: 판매자 구매자 로그인 예외처리
+6adeeffb3ba9c88278ab62f663aa694898a6a5f2 b389722c91f455479ada313cc1c5ffcfb01bd9e1 Yookmoonsu <yookmoon@naver.com> 1509422811 +0900	commit: SDK21미만 StatusBarColor 예외처리
+b389722c91f455479ada313cc1c5ffcfb01bd9e1 fe75cd7f9c73cc34f20888ed98a9b49546e45369 Yookmoonsu <yookmoon@naver.com> 1509422928 +0900	pull origin feature/ChoiUI: Merge made by the 'recursive' strategy.
+fe75cd7f9c73cc34f20888ed98a9b49546e45369 a714ac3ac7ca597cac34f8c9c56f3bbd6ac7b4e1 Yookmoonsu <yookmoon@naver.com> 1509423361 +0900	pull origin gyunui: Merge made by the 'recursive' strategy.
+a714ac3ac7ca597cac34f8c9c56f3bbd6ac7b4e1 e3f33fa83e05939b709a00161c35cd0e36bbda68 Yookmoonsu <yookmoon@naver.com> 1509423677 +0900	commit: 판매자 뒤로가기 버튼 눌렀을시 로그인 유지
+e3f33fa83e05939b709a00161c35cd0e36bbda68 e269a68cb7665d91abf00ad4ebada144fd10a9f7 Yookmoonsu <yookmoon@naver.com> 1509437423 +0900	merge develop: Fast-forward
+e269a68cb7665d91abf00ad4ebada144fd10a9f7 33a259f21551166c1fd87a7187d0ae12660e1b6f Yookmoonsu <yookmoon@naver.com> 1509437464 +0900	pull origin feature/ChoiUI: Merge made by the 'recursive' strategy.
